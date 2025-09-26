@@ -64,13 +64,13 @@ h1,h2,h3,h4,p{
     padding:20px;
     margin: 20px auto;
     text-align: center;
-    width:400px;
-    height:250px;
+    width:300px;
+    height:150px;
     background: lightblue;
     border-bottom: 5px solid purple;
-    box-sizing: border-box;
+    
 }
 .avater{
-    width:150px;
+    width:100px;
     margin-left: 20px;
 }
